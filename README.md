@@ -39,6 +39,11 @@ and data visualization.
 - Chart formatting
 - Presenting analytical insights
 
+### Statistical Data Analysis
+- Univariate Analysis
+- Bivariate Analysis
+- Box Plot
+- Scatter Plot
 ---
 
 ## 🗂️ Repository Structure
@@ -57,5 +62,10 @@ Excel-Data-Analytics-Practice/
 │
 ├── 04-Data-Visualization/
 │   └── Charts, histogram and visualization practice
+│  
+├── 05-Statistical-Analysis-Practice/
+│   ├── Statistical-Analysis-Explain-Topics.xlsx
+│   ├── Statistical-Analysis-Answers.xlsx
+│   └── Statistical-Analysis-Questions.pdf
 │
 └── README.md
