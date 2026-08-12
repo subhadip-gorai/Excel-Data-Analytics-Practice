@@ -61,7 +61,8 @@ Excel-Data-Analytics-Practice/
 │   └── PivotTable practice files
 │
 ├── 04-Data-Visualization/
-│   └── Charts, histogram and visualization practice
+│   ├── Charts practice files
+│   └── Histogram analysis and practice files
 │  
 ├── 05-Statistical-Analysis-Practice/
 │   ├── Statistical-Analysis-Explain-Topics.xlsx
