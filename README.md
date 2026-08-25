@@ -44,6 +44,14 @@ and data visualization.
 - Bivariate Analysis
 - Box Plot
 - Scatter Plot
+
+### Conclusion to Data Analytics
+- Data preparation and understanding.
+- Customer distribution analysis.
+- Relationship analysis between different customer factors
+- Identifying the most valuable customer segment
+- Deriving business insights and recommendations
+
 ---
 
 ## 🗂️ Repository Structure
@@ -52,21 +60,29 @@ and data visualization.
 Excel-Data-Analytics-Practice/
 │
 ├── 01-Formulas-and-Functions/
-│   └── Excel formula practice files
+│   ├── IF-AND-OR-Formula-Practice.xlsx
+│   ├── Index-and-Match-Functions.xlsx
+│   └── Vlookup-and-Hlookup-Practice.xlsx
 │
 ├── 02-Data-Cleaning/
-│   └── Data cleaning practice files
+│   └── Data-Cleaning-Practice.xlsx
 │
 ├── 03-Pivot-Tables/
-│   └── PivotTable practice files
+│   ├── Pivot-Table-Chart-Slicer-Practice.xlsx
+│   ├── Session 10_DIY-Questions.pdf
+│   └── S10-Customer_FDBK_Dataset-Answers.xlsx
 │
 ├── 04-Data-Visualization/
-│   ├── Charts practice files
-│   └── Histogram analysis and practice files
+│   ├── Charts-practice.xlsx
+│   └── Histogram-analysis-and-practice.xlsx
 │  
 ├── 05-Statistical-Analysis-Practice/
 │   ├── Statistical-Analysis-Explain-Topics.xlsx
 │   ├── Statistical-Analysis-Answers.xlsx
 │   └── Statistical-Analysis-Questions.pdf
+│
+├── 06.Conclusion-to-Data-Analytics/
+│   ├── Conclusion-to-Data-Analytics-Practice.xlsx
+│   └── Sportsmen-Data-Analytics-Practice.xlsx
 │
 └── README.md
