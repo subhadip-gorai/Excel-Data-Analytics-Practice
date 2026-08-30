@@ -19,6 +19,7 @@ and data visualization.
 - Lookup Functions
 - Statistical Functions
 - Formula-based Data Analysis
+- Introduction to Power Query
 
 ### Data Cleaning
 - Identifying and handling data issues
@@ -84,5 +85,8 @@ Excel-Data-Analytics-Practice/
 ├── 06.Conclusion-to-Data-Analytics/
 │   ├── Conclusion-to-Data-Analytics-Practice.xlsx
 │   └── Sportsmen-Data-Analytics-Practice.xlsx
+│
+├── 07.Power-Query-Data-Transformation/
+│   └── Power-Query-Data-Transformation.xlsx
 │
 └── README.md
