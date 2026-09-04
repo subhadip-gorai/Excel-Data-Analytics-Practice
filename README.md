@@ -20,6 +20,7 @@ and data visualization.
 - Statistical Functions
 - Formula-based Data Analysis
 - Introduction to Power Query
+- Power Query joins and Transformations
 
 ### Data Cleaning
 - Identifying and handling data issues
@@ -88,5 +89,9 @@ Excel-Data-Analytics-Practice/
 │
 ├── 07.Power-Query-Data-Transformation/
 │   └── Power-Query-Data-Transformation.xlsx
+│
+├── 08.Power_Query_Joins_and_Transformations/
+│   ├── Power_Query_Joins_and_Transformations_Practice.xlsx
+│   └── Loan_Analytics_Enhancements_Practice(Q&A).xlsx
 │
 └── README.md
